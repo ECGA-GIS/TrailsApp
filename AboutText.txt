@@ -1,0 +1,19 @@
+{"about":[
+
+{"Park and Trail Maintenance Complaint Center":"If you would like to report anything that needs to be maintained in the parks or on the trails, please call 412-350-2513."},
+
+{"How to Read Trail Blazes":"Many recommended trails within Allegheny County parks are marked with paint on trees along the path. Some trees include offset blazes, which indicate the direction where the trail turns.  <img src='http://apps.alleghenycounty.us/GIS/blaze_meanings.jpg' alt='Blaze Meanings' width='396' height='135'>"},
+
+{"Trail Application Features:":"<ul>
+
+<li><b>Improved interface to discover new and old trails.</b></li>
+
+<li><b>No cell service or WiFi? No problem!</b> This app allows you to download each Allegheny County Park's trail data so you can load the app in low service areas. <i>Note: Location tracking in the elevation graph is available in online mode only.</i></li>
+
+<li><b>Track where you went and how fast you got there.</b> Can't remember where you parked your car? Want to know the total distance you jogged using multiple trails? This app now has a cookie crumb feature to track your steps. Simply select <img src='assets/images/breadcrumb_white.png' alt='Breadcrumb' width='30' height='30'> to start tracking your location. <i>Tip: Save an image of your mobile device's screen in order to save the map display, distance, time, and speed information.</i></li></ul></li>
+
+<li>We always welcome your comments or suggestions. Feel free to submit feedback below!</li></ol>"},
+
+{"Allegheny County Parks Mission Statement":"To enhance the quality of life and well-being of Allegheny County residents by providing quality landscapes, facilities, programs, and special events that meet countywide needs for leisure and recreation."},
+
+{"About the App":"Created in collaboration with Allegheny County's Department of Computer Services - GIS Team and software vendor Esri."}],"lastUpdate":"2021-05-26T12:20:00"}
