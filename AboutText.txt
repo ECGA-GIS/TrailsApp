@@ -7,4 +7,4 @@
 <li>Motor vehicles prohibited</li></ul>"},
 {"Essex County Greenbelt Mission Statement":"As Essex County’s Land Trust, Greenbelt works with landowners and the thirty-four cities and towns of Essex County to conserve open space, farmland, wildlife habitat and scenic landscapes. Our work helps protect native plants, animals and natural corridors, ensure a healthy food supply, maintain clean water, and create free and accessible places for outdoor recreation and the enjoyment of nature."},
 
-{"About the App":"Created in collaboration with Essex County Greenbelt’s GIS Team and software vendor Esri."}],"lastUpdate":"2021-05-26T12:20:00"}
+{"About the App":"Created in collaboration with Essex County Greenbelt’s GIS Team and Esri."}],"lastUpdate":"2021-05-26T12:20:00"}
