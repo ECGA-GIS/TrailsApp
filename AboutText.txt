@@ -9,4 +9,4 @@
 
 {"Essex County Greenbelt Mission Statement":"As Essex County’s Land Trust, Greenbelt works with landowners and the thirty-four cities and towns of Essex County to conserve open space, farmland, wildlife habitat and scenic landscapes. Our work helps protect native plants, animals and natural corridors, ensure a healthy food supply, maintain clean water, and create free and accessible places for outdoor recreation and the enjoyment of nature.<br>
 Greenbelt is grateful to several professional and staff photographers whose work is featured prominently within the GreenbeltGo trails app. Thank you Jerry Monkman / ecophotography.com, Lynne Holton, Kindra Clineff, Adrian Scholes and John Raleigh.<br>
-Created in collaboration with Essex County Greenbelt’s GIS Team and Esri."}],"lastUpdate":"2021-05-26T12:20:00"}
+Created in collaboration with Essex County Greenbelt’s GIS Team and Esri."}],"lastUpdate":"2021-09-14T12:20:00"}
